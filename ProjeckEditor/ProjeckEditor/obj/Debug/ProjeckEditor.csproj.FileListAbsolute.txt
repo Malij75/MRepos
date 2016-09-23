@@ -1,0 +1,14 @@
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\bin\Debug\ProjeckEditor.exe.config
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\bin\Debug\ProjeckEditor.exe
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\bin\Debug\ProjeckEditor.pdb
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.csprojResolveAssemblyReference.cache
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.MainForm.resources
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.csproj.GenerateResource.Cache
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.exe
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.pdb
+L:\RUV\ProjeckEditor\ProjeckEditor\bin\Debug\ProjeckEditor.exe.config
+L:\RUV\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.exe
+L:\RUV\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.pdb
+D:\Malij\OneDrive\Documents\Visual Studio 2015\Projects\RUV\ProjeckEditor\ProjeckEditor\bin\Debug\ProjeckEditor.exe.config
+D:\Malij\OneDrive\Documents\Visual Studio 2015\Projects\RUV\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.exe
+D:\Malij\OneDrive\Documents\Visual Studio 2015\Projects\RUV\ProjeckEditor\ProjeckEditor\obj\Debug\ProjeckEditor.pdb

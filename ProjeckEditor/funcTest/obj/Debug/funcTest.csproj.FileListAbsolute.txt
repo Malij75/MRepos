@@ -1,0 +1,8 @@
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\obj\Debug\funcTest.csprojResolveAssemblyReference.cache
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\bin\Debug\funcTest.exe.config
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\bin\Debug\funcTest.exe
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\bin\Debug\funcTest.pdb
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\bin\Debug\ProjeckEditor.exe
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\bin\Debug\ProjeckEditor.pdb
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\obj\Debug\funcTest.exe
+C:\Users\xv8887A\Documents\SharpDevelop Projects\ProjeckEditor\funcTest\obj\Debug\funcTest.pdb
